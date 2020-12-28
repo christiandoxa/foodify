@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Foodify</string>
+    <string name="title_history">History</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+    <string name="done">Done</string>
+</resources>
